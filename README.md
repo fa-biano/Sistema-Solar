@@ -9,3 +9,6 @@ Projeto realizado durante o curso de desenvolvimento web na Trybe (Bloco 10)
 
 ## :point_down: Link para acesso a página do projeto:
 https://fa-biano.github.io/Sistema-Solar/
+
+## :rocket: Demonstração:
+<img src="./demo.gif" alt="">
